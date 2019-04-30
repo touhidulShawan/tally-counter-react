@@ -1,3 +1,7 @@
+# See live Here
+
+[Click Here to see Live](https://touhidulShawan.github.io/tally-counter-react/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
