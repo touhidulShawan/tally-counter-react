@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+
+  i {
+    font-size: 35px;
+    margin-right: 15px;
+  }
+
+  h1 {
+    display: inline-block;
+  }
+}
+
+.counter {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  background: #1f2430;
+  margin: 20px auto;
+  text-align: center;
+  padding: 30px;
+  color: rgb(24, 255, 255);
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.9);
+  h1 {
+    font-size: 85px;
+    margin: 40px;
+  }
+}
+
+button {
+  padding: 10px 45px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.reset:hover {
+  background: red;
+}
+
+.increment:hover {
+  background: lightgreen;
+}
