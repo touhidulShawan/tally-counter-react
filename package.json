@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "https://touhidulShawan.github.io/tally-counter-react/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "gh-pages": "^2.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
